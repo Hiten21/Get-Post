@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Hiten ",
+      "address": "jaipur11",
+      "email": "jaipur11@gmail.com",
+      "contact": "8005679511",
+      "id": 1
+    },
+    {
+      "name": "Rohit",
+      "address": "jaipur",
+      "email": "Rohit@gmail.com",
+      "contact": "8225679599",
+      "id": 3
+    },
+    {
+      "name": "Jason",
+      "address": "india",
+      "email": "Jasonnn",
+      "contact": "13413413241",
+      "id": 4
+    },
+    {
+      "name": "Abhi",
+      "address": "delhi",
+      "email": "Abhi@gmail.com",
+      "contact": "2903485",
+      "id": 5
+    }
+  ]
+}
